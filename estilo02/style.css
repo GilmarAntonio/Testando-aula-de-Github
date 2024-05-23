@@ -10,7 +10,7 @@ body {
 main {
     background-color: aliceblue;
     width: 500px;
-    margin-top: auto;
+    margin: auto;
     padding: 10px;
     box-shadow: inset;
 }
