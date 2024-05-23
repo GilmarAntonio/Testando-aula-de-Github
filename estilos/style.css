@@ -10,8 +10,8 @@ body {
 
 main {
     background-color: aliceblue;
-    width: 500px;
+    width: 800px;
     margin: auto;
-    padding: 10px;
+    padding: 30px;
     box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.137);
 }
